@@ -1,0 +1,4 @@
+org/example/Main.class
+com/example/repositories/CoordinateRepository.class
+com/example/model/MyEntity.class
+com/example/model/Coordinate.class
